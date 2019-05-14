@@ -3,7 +3,7 @@
 I have been in programming for 2 years now, and here is a preview of my programing projects thus far. 
 
 ## Tanker App
-One of the first applications that I completed in programing 2 was an app produced on repl.it that can calculate the amount of water you will drink  throught your life time in tanker trucks. I used the programing language java to write this program. I was introduced to a new concept: how to let someone input things into the application, in order to do this I used the code Scanner in. When finished, the application could figure out with an inputed number of years and water intake per day the amount of tanker trucks you could drink. 
+One of the first applications that I completed in programing 2 was my Tanker App. In order to produced this app I used an onine compiler called repl.it. The programing language used to create this App was java. This Program can calculate the amount of water you will drink throught your life time in tanker trucks. This programing application introduced me to a new concept, the Scanner in function. This function allows the user to input their own information into the code. This function allowed me to make the program more adaptable and individual. When finished, the application could figure out with an inputed number of years and water intake per day the estimated amount of tanker trucks you could drink in your life. 
 
 [My Tanker app on Git Hub]( https://github.com/IG9626/tankerApp "link to GitHub page all about the Tanker app") 
 Here's a Pic:
