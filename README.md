@@ -2,13 +2,13 @@
 
 I have been in programming for 2 years now, and here is a preview of my programing projects thus far. 
 
-## AP American History Project 
-One of the first applications that I learned to create was a screensaver that I could use on my computer. This application, being one of the first ones I did, was not very hard skill wise but was still daunting. To make this application I used a fun little program called processing, which is a learning platform that makes learning how to program fun and not so heavy or technical. When writing the code I used the programing language java. The concept we focused on when writing the code for the application was random, this concept is that every time your program is started it will never be the same because you can choose random lengths, widths and colors for all of the lines on the screen. When finished, it was work well done, I now had a cool little screensaver that I could put onto my computer.
+## Tanker App
+One of the first applications that I completed in programing 2 was an app produced on repl.it that can calculate the amount of water you will drink  throught your life time in tanker trucks. I used the programing language java to write this program. I was introduced to a new concept: how to let someone input things into the application, in order to do this I used the code Scanner in. When finished, the application could figure out with an inputed number of years and water intake per day the amount of tanker trucks you could drink. 
 
-[My American History app on Git Hub]( https://github.com/IG9626/AmericanHistoryPP "link to GitHub page all about the American History app") 
+[My Tanker app on Git Hub]( https://github.com/IG9626/tankerApp "link to GitHub page all about the Tanker app") 
 Here's a Pic:
 
-![picofScreenSaver](https://github.com/IG9626/AmericanHistoryPP/blob/master/picturesOfProject/americanHistoryPeriodChoices.png?raw=true)
+![picOfTankerApp](https://github.com/IG9626/tankerApp/blob/master/TankerAppPic.png?raw=true)
 
 ## Time Line
 ![timeLinePic](https://github.com/IG9626/timeline/blob/master/timelinePhoto1.png?raw=true)
