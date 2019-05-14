@@ -1,14 +1,14 @@
-# My Programing Peregination
+# My Programing Showcase
 
-Hi!!:) If you are deciding whether or not to take on programing, let me tell you about my programing peregrination. Throughout my entire life I thought programing was the most boring and dumbest thing I could do. I thought that it was more boring than watching grass grow, or paint dry. I was entirely wrong. Not only was programing very fun and interesting, but it was also very applicable to life. You can create applications such as a calculator, or a calendar that you can use every day. Not only can you make your own, but you can better understand what goes into the apps you use every day on your phone. It may or may not be something that you want to pursue as a career, but either way programing and coding surrounds our day to day lives. The following projects are the highlights of my programing peregrination. Below I have some links that when pressed will bring you to my (and my groups) Git hub account where you can see more pictures and the code of the app. 
-## Screen Saver Application
+I have been in programming for 2 years now, and here is a preview of my programing projects thus far. 
+
+## AP American History Project 
 One of the first applications that I learned to create was a screensaver that I could use on my computer. This application, being one of the first ones I did, was not very hard skill wise but was still daunting. To make this application I used a fun little program called processing, which is a learning platform that makes learning how to program fun and not so heavy or technical. When writing the code I used the programing language java. The concept we focused on when writing the code for the application was random, this concept is that every time your program is started it will never be the same because you can choose random lengths, widths and colors for all of the lines on the screen. When finished, it was work well done, I now had a cool little screensaver that I could put onto my computer.
 
-
-[My Screen Saver app on Git Hub]( https://github.com/IG9626/screenSaver "link to GitHub page all about the screen saver app") 
+[My American History app on Git Hub]( https://github.com/IG9626/AmericanHistoryPP "link to GitHub page all about the American History app") 
 Here's a Pic:
 
-![picofScreenSaver](https://github.com/IG9626/screenSaver/blob/master/PicOfScreenSaver2.0y.jpg?raw=true)
+![picofScreenSaver](https://github.com/IG9626/AmericanHistoryPP/blob/master/picturesOfProject/americanHistoryPeriodChoices.png?raw=true)
 
 ## Time Line
 ![timeLinePic](https://github.com/IG9626/timeline/blob/master/timelinePhoto1.png?raw=true)
@@ -57,12 +57,12 @@ Up to this point in class I had only used 1 language, java, it was time to expan
 
 
 
-## Chess Game
+## AP American History Study  
 
-![ChessGame](https://github.com/The-tiny-asian/chess/blob/master/ChessRunning.png?raw=true)
+![ChessGame](https://github.com/IG9626/AmericanHistoryPP/blob/master/picturesOfProject/americanHistoryPeriodChoices.png?raw=true)
 
 
-One of the last projects that I did, was a group project with Raheem, David, and Emmanuel. In this we created a functional working chess game! This was a huge accomplishment! Raheem put together the basis of the application which allowed us to create a functioning application. We all contributed with the code for the specific chess pieces, and Emmanuel did a spectacular job with the chess piece graphics! This was by far my most favorite application/program that we did all year. It was so fun to code in groups, we were able to help each other along and it was so fulfilling in the end to be able to play a game of chess and know all the work that got put into making that game possible. Overall programing has been a very fun experience filled with learning new things. 
-[Here is a link to our Chess Game on Git Hub]( https://github.com/The-tiny-asian/chess " link to GitHub page all about the Chess game app ")
+One of the most complex projects that I did, was a project to help someone study for the AP American History test. This program allows students to review each period of time while memorizing where these things happened on a map of America. Once finished with looking at the map students can then transfer to a diffrent screen which summurizes in a story the things they learned in that period of time. This program is an object oriented program with 4 classses with differing inheritence. This project was super fun and helped me to bring together topics I learned in programing 1 with topics I learned in programing 2. 
+[Here is a link to my American History Project on Git Hub]( https://github.com/IG9626/AmericanHistoryPP " link to GitHub page all about the American History app ")
 
 To Contact Me Email: IG96@protonmail.com
