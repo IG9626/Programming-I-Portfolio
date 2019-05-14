@@ -10,12 +10,12 @@ Here's a Pic:
 
 ![picOfTankerApp](https://github.com/IG9626/tankerApp/blob/master/TankerAppPic.png?raw=true)
 
-## Time Line
-![timeLinePic](https://github.com/IG9626/timeline/blob/master/timelinePhoto1.png?raw=true)
+## Date Calculator
+![DateCalculatorPic](https://github.com/IG9626/dateCalculator/blob/master/DateCalculatorPic.png?raw=true)
 
-This was still one of my earlier projects, but I was exited from the begining to do this project. I used the language Java and the program processing to create this timeline. The reason I was so exited, was that I felt like I could use what I learned as I did this program to complete other projects in my english and history classes that also needed timelines. I could create them how I wanted and could make them look any way I wanted. In this program I learned how to code a program so that you could interact with it. To achomplish this i created a hover function which allows a box of information appear whenever you are hovering over a date.
+This is a program I completed close to the earlier part of programing 2. This application can calculate any day in the future or in the past, coded using java. For this project I had to figure out how to reaserch diffrent functions for applications, I had to navigate the java database and find the function that could get me the correct date and time, this function is: .getDayOfWeek and LocalDate. Overall this project was very fun and exiting.
 
-[My Time line app on Git Hub]( https://github.com/IG9626/timeline " link to GitHub page all about the Time line app ")
+[My Date Calculator app on Git Hub]( https://github.com/IG9626/dateCalculator " link to GitHub page all about the Date Calculator app ")
 
 ## Speed Converter
 ![SpeedConverterPic](https://github.com/IG9626/speedconverterApp/blob/master/speedConverterAppPic.png?raw=true)
