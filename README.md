@@ -32,20 +32,13 @@ This is a program I completed close to the earlier part of programing 2. This ap
 
 [My Date Calculator app on Git Hub]( https://github.com/IG9626/dateCalculator " link to GitHub page all about the Date Calculator app ")
 
-## Speed Converter
-![SpeedConverterPic](https://github.com/IG9626/speedconverterApp/blob/master/speedConverterAppPic.png?raw=true)
+## Resturant Bill Calculator
+![Resturant Bill Calculator](https://github.com/IG9626/BillCalculator/blob/master/ResturantBillCalculator.png?raw=true)
 
-In this application we had the assignment to show a converter on the screen (temperature, speed, money, etc.) I decided to choose Speed. I wanted to convert miles per hour to kilometers per hour, not only that but I wanted to create what looked like speedometers onto the screen. It was very hard, the speedometers were circles and to figure out how to reference the speed onto a circle and change the hands of the speedometer as you moved the mouse across the screen was very hard. In this program I learned that math is very important when it comes to programing. I also learned that using reference sites such as: 
+This application is a program that can determine the amount you have to pay at a resturant. It takes into the account the amount you spent for food, the amount tip you want to leave the waiter, and the number of people who will be splitting the bill in your party. This is an application which uses the variable type Double, as well as caculations for specific values. 
 
-[tutorialspoint]( https://www.tutorialspoint.com/index.htm " Link to the tutorialspoint website ") 
 
-and
-
-[processing]( https://processing.org/reference/ " Link to the processing website ")
-
-tutorials point and processing was very important in keeping my sanity and completing the project. When I run the code on my computer some of the program is a little buggy, and still needs some fixing, but it was still a good accomplishment. Hopefully someday I will come back and fix the issues, but all in all this application was a very good learning experience. 
-
-[My Speed Converter on Git Hub]( https://github.com/IG9626/speedconverterApp " link to GitHub page all about the Speed converter app ")
+[My Resturant Bill Calculator]( https://github.com/IG9626/BillCalculator " link to GitHub page all about the Resturant Bill Calculator app ")
  
 
 
