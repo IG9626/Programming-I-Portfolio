@@ -2,6 +2,21 @@
 
 I have been in programming for 2 years now, and here is a preview of my programing projects thus far. 
 
+## Calculator
+ This was the first large, multi process application that we did. It was filled with many steps, but in the end, it was well worth it. We started with a layout of what we wanted our calculator to do, and how we wanted it to look. This is what my layout looked like, I just wrote it out:
+ 
+ 
+![Calculatorplan](https://github.com/IG9626/Calculator/blob/master/calculatorPlan.jpg?raw=true)
+
+After the layout I began to code the application, I started with 2 function buttons and the display. During the making of this calculator I learned what classes were and how to use them. I also learned how to make a complex program, that had many aspects that worked together.  I got a working calculator (mostly :):) I still want to code 4 function buttons with square root, exponents, etc. I will just add that sometime in the future;) that I could potentially use! It took awhile to get a hang of the program, but in the end it was well worth it!
+[My Calculator on Git Hub]( https://github.com/IG9626/Calculator " link to GitHub page all about the Calculator app ")
+
+
+![CalculatorAppPic](https://github.com/IG9626/Calculator/blob/master/picture/Screen%20Shot%202018-02-14%20at%201.39.07%20PM.png?raw=true)
+
+
+
+
 ## Tanker App
 One of the first applications that I completed in programing 2 was my Tanker App. In order to produced this app I used an onine compiler called repl.it. The programing language used to create this App was java. This Program can calculate the amount of water you will drink throught your life time in tanker trucks. This programing application introduced me to a new concept, the Scanner in function. This function allows the user to input their own information into the code. This function allowed me to make the program more adaptable and individual. When finished, the application could figure out with an inputed number of years and water intake per day the estimated amount of tanker trucks you could drink in your life. 
 
@@ -31,18 +46,6 @@ and
 tutorials point and processing was very important in keeping my sanity and completing the project. When I run the code on my computer some of the program is a little buggy, and still needs some fixing, but it was still a good accomplishment. Hopefully someday I will come back and fix the issues, but all in all this application was a very good learning experience. 
 
 [My Speed Converter on Git Hub]( https://github.com/IG9626/speedconverterApp " link to GitHub page all about the Speed converter app ")
-
-## Calculator
- This was the first large, multi process application that we did. It was filled with many steps, but in the end, it was well worth it. We started with a layout of what we wanted our calculator to do, and how we wanted it to look. This is what my layout looked like, I just wrote it out:
- 
- 
-![Calculatorplan](https://github.com/IG9626/Calculator/blob/master/calculatorPlan.jpg?raw=true)
-
-After the layout I began to code the application, I started with 2 function buttons and the display. During the making of this calculator I learned what classes were and how to use them. I also learned how to make a complex program, that had many aspects that worked together.  I got a working calculator (mostly :):) I still want to code 4 function buttons with square root, exponents, etc. I will just add that sometime in the future;) that I could potentially use! It took awhile to get a hang of the program, but in the end it was well worth it!
-[My Calculator on Git Hub]( https://github.com/IG9626/Calculator " link to GitHub page all about the Calculator app ")
-
-
-![CalculatorAppPic](https://github.com/IG9626/Calculator/blob/master/picture/Screen%20Shot%202018-02-14%20at%201.39.07%20PM.png?raw=true)
  
 
 
