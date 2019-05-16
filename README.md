@@ -42,14 +42,14 @@ This application is a program that can determine the amount you have to pay at a
  
 
 
-## Pig Latin Converter
+## Time Zone App
 
-![PigLatinConverter](https://github.com/IG9626/pigLatinConverter/blob/master/picOfPigLatinConverter.png?raw=true)
+![Time Zone App](https://github.com/IG9626/TimeZone/blob/master/TimeZonePic.png?raw=true)
+
+This application can find out the time in your time zone as well as the time in other time zones. This application taught me how to reaserch on the java database to find diffrent time funtions. This project uses for statments and embeded if statements. 
 
 
-Up to this point in class I had only used 1 language, java, it was time to expand to something new. In programing there are many different languages, java, c++, python,ext. In the end I decided to try out python. I decided to do python because it was a concise language and many people said fairly easy to learn. To write the code for this program I used IDLE, a program similar to processing, but much simpler. The application I did was a pig latin converter. It converts any word in english into pig latin. This program was very simple and allowed me to navigate the new syntax (grammar) of the new language. 
-
-[My Pig Latin Converter on Git Hub]( https://github.com/IG9626/pigLatinConverter "link to GitHub page all about the Pig Latin converter ")
+[My Time Zone App on Git Hub]( https://github.com/IG9626/TimeZone "link to GitHub page all about the Time Zone App ")
 
 
 
