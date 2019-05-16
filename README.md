@@ -3,7 +3,7 @@
 I have been in programming for 2 years now, and here is a preview of my programing projects thus far. 
 
 ## Calculator
- This was the first large, multi process application that we did. It was filled with many steps, but in the end, it was well worth it. We started with a layout of what we wanted our calculator to do, and how we wanted it to look. This is what my layout looked like, I just wrote it out:
+ I did this project in programing one, this was my first large scale project and my favorite project that i did. It was filled with many steps, but in the end, it was well worth it. I started with a layout of what I wanted my calculator to do, and how I wanted it to look. This is what my layout looked like, I just wrote it out:
  
  
 ![Calculatorplan](https://github.com/IG9626/Calculator/blob/master/calculatorPlan.jpg?raw=true)
